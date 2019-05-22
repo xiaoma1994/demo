@@ -10,5 +10,9 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "followers":[
+    {"id":"1" , "name":"xiaoma"},
+    {"id":"2" , "name":"James"}
+  ]
 }
