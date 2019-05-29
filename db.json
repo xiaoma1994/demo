@@ -1,18 +1,121 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 33" }
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "2",
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "3",
+      "title": "json-server",
+      "author": "mary"
+    }
+  ],
+  "players":[
+    {
+      "id":1,
+      "name":"Olasunkanmi Adeniyi",
+      "number":92,
+      "position":"LB",
+      "height":"6-1",
+      "weight":"248",
+      "age":"21",
+      "experence":"2",
+      "college":"Toledo",
+      "slug":"olasunkanmi-adeniyi",
+      "biography":{
+        "summary":"Signed with the Steelers as an undrafted rookie free agent on April 28, 2018.",
+        "pro":"Signed with the Steelers as an undrafted rookie free agent on April 28, 2018.",
+        "college":"Saw action in 34 games and started 25 games at Toledo (2015-17)…totaled 118 tackles, 28.0 TFLs, 12.5 sacks, forced three fumbles, one fumble recovery, and one pass deflect in his career…as a junior, led the team in tackles for loss (2.0) and finished third in the MAC…named second-team All-MAC…as a sophomore started 12 games at “Leo” defensive end where he registered 49 tackles, second-most among team’s down linemen…chose to redshirt as a true freshman at Toledo…majored in Marketing.",
+        "personal":"Attended George Bush High School (Fort Bend County, Texas)…as a senior, recorded 76 tackles, 18 TFLs, and  5.0 sacks…full name is Olasunkanmi Adeniyi."
+      }
+    },
+    {
+      "id":2,
+      "name":"Brian Allen",
+      "number":29,
+      "position":"CB",
+      "height":"6-3",
+      "weight":"215",
+      "age":"25",
+      "experence":"3",
+      "college":"Utah",
+      "slug":"brian-allen",
+      "biography":{
+        "summary":"Drafted by the Steelers in the fifth round (173rd overall) of the 2017 NFL Draft.",
+        "pro":"Drafted by the Steelers in the fifth round (173rd overall) of the 2017 NFL Draft.",
+        "college":"Played in 42 games with 12 starts at Utah (2012-16)…totaled 62 tackles, 14 pass breakups and five interceptions…his four interceptions in 2016 tied for fifth in the Pac-12...earned honorable mention All-Pac-12 academic honors in 2014….saw action on special teams early in his career (2013-14)…graduated with two degrees, one in human development and family studies and one in economics.",
+        "personal":"Attended La Marque High School (La Marque, Texas)…was a three-time first-team all-district 24-4A…also named first-team all-county in 2011...was a captain in both football and basketball…lettered three years in both sports…won school’s Gene Sutton Fighting Spirit award…honor roll student…son of Ronald Allen and Niki Jolly…is married to Paula…the couple has one daughter A’mya…Full name: Brian Keith Allen."
+      }
+    },
+    {
+      "id":3,
+      "name":"Marcus Allen",
+      "number":27,
+      "position":"S",
+      "height":"6-2",
+      "weight":"248",
+      "age":"22",
+      "experence":"2",
+      "college":"Penn State",
+      "slug":"marcus-allen",
+      "biography":{
+        "summary":"Became the sixth player in Penn State history to reach the 300-tackle mark in a career, finishing fifth in school history with 321 stops…produced double-digit tackles in nine games.",
+        "pro":"Drafted by the Steelers with the first of their two fifth round selections (148th overall) of the 2018 NFL Draft.",
+        "college":"Totaled 321 tackles at Penn State, ranking fifth in school history in career tackles, and becoming the sixth player in program h history to record at least 300 stops in a career…earned first-team All-Big Ten accolades from the coaches and second-team honors from the media in 2017 after starting all 13 games and recording 72 tackles (46 solo) with one interception and forcing two fumbles…selected as a team captain in 2017…tabbed All-Big Ten third-team by the coaches and honorable mention by the media panel in 2016…named Big Ten Co-Defensive Player of the Week after a 22-tackle game vs. Minnesita in 2016…started all 14 games, notching 10 tackles or more in three games, en route to recording a career-best 110 tackles in 2016 to become the first safety to lead Penn State in tackles since 2002…honorable mention All-Big Ten by the coaches and media in 2015, finishing second on the defense with 81 tackles…started seven of 13 games played in 2014, tying for third on the squad with 58 tackles…majored/graduated in broadcast journalism.",
+        "personal":"Attended Dr. Henry Wise High School (Upper Marlboro, Md.)…posted 15 tackles and two fumble recoveries in three games as a senior before suffering an ankle injury…helped the Pumas advance to a perfect 14-0 record and the Maryland 4A State Championship as a junior, producing 70 tackles, three interceptions and 10 pass breakups…was invited to participate in the Big 33 Classic and Maryland Crab Bowl following his senior year…son of Shawn and Latonya Allen….is the godson of Pro Football Hall of Fame running back Curtis Martin."
+      }
+    },
+    {
+      "id":4,
+      "name":"Tyson Alualu",
+      "number":94,
+      "position":"DE",
+      "height":"6-3",
+      "weight":"304",
+      "age":"32",
+      "experence":"10",
+      "college":"California",
+      "slug":"tyson-alualu",
+      "biography":{
+        "summary":"Signed a two-year contract with the Steelers as an unrestricted free agent (from Jacksonville) on March 21, 2017…re-signed a two-year extension with the Jaguars on March 8, 2015…originally drafted by the Jacksonville Jaguars in the first round (10th overall) of the 2010 NFL Draft.",
+        "pro":"Signed a two-year contract with the Steelers as an unrestricted free agent (from Jacksonville) on March 21, 2017…re-signed a two-year extension with the Jaguars on March 8, 2015…originally drafted by the Jacksonville Jaguars in the first round (10th overall) of the 2010 NFL Draft",
+        "college":"Was a four-year letterman at California (2006-09)…played in 52 games with 40 starts…never missed a game and started 39 consecutive games to complete his career…career totals included 195 tackles, 26.0 TFLs, 16.0 sacks, seven pass breakups, four forced fumbles and four fumble recoveries…was a three-time winner of the Brick Muller Award as team’s most valuable defensive lineman (2007-09)…named All-Pac-10 first team by the league’s coaches and media in back-to-back years 2008-09…majored in ethnic studies.",
+        "personal":"Attended St. Louis High School (Honolulu, Hawaii)…was a two-time all-state selection by the Honolulu Star Bulletin…as a senior, he was named the Interscholastic Hawaiian League Defensive Player of the Year and earned a spot on Prep Star’s All-Far West Region team…son of Ta'avao and Levaa'i Alualu…is one of nine children…he and his wife Desire have three sons, Tyree, Tydes and Tyten and one daughter, Dereon…Full name: Tyson Asi Alualu (AH-loo AH-loo)."
+      }
+    },
+    {
+      "id":5,
+      "name":"Dravon Askew-Henry",
+      "number":41,
+      "position":"S",
+      "height":"6-0",
+      "weight":"202",
+      "age":"23",
+      "experence":"R",
+      "college":"West Virginia",
+      "slug":"dravon-askew-henry",
+      "biography":{
+        "summary":"",
+        "pro":"",
+        "college":"",
+        "personal":""
+      }
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
   "profile": {
     "name": "typicode"
-  },
-  "followers":[
-    {"id":"1" , "name":"xiaoma"},
-    {"id":"2" , "name":"James"}
-  ]
+  }
 }
